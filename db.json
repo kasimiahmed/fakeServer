@@ -1,30 +1,6 @@
 {
     "result": [
         {
-            "acctNum": "10000000476",
-            "availableBalance": 84780,
-            "currentBalance": 0,
-            "noOfRelations": 1,
-            "primary": 1,
-            "jointAcct": 0
-        },
-        {
-            "acctNum": "10000000491",
-            "availableBalance": -8248.2,
-            "currentBalance": 0,
-            "noOfRelations": 1,
-            "primary": 1,
-            "jointAcct": 0
-        },
-        {
-            "acctNum": "10000000506",
-            "availableBalance": -7853.1,
-            "currentBalance": 0,
-            "noOfRelations": 1,
-            "primary": 1,
-            "jointAcct": 0
-        },
-        {
             "acctNum": "10000000512",
             "availableBalance": 600000,
             "currentBalance": 0,
@@ -41,80 +17,11 @@
             "jointAcct": 0
         },
         {
-            "acctNum": "10000000522",
-            "availableBalance": -6893.7,
-            "currentBalance": 0,
-            "noOfRelations": 1,
-            "primary": 1,
-            "jointAcct": 0
-        },
-        {
-            "acctNum": "10000000564",
-            "availableBalance": -4265.8,
-            "currentBalance": 0,
-            "noOfRelations": 1,
-            "primary": 1,
-            "jointAcct": 0
-        },
-        {
-            "acctNum": "10000000565",
-            "availableBalance": -4218.5,
-            "currentBalance": 0,
-            "noOfRelations": 1,
-            "primary": 1,
-            "jointAcct": 0
-        },
-        {
-            "acctNum": "10000000566",
-            "availableBalance": -4218.5,
-            "currentBalance": 0,
-            "noOfRelations": 1,
-            "primary": 1,
-            "jointAcct": 0
-        },
-        {
-            "acctNum": "10000000570",
-            "availableBalance": -3696.5,
-            "currentBalance": 0,
-            "noOfRelations": 1,
-            "primary": 1,
-            "jointAcct": 0
-        },
-        {
             "acctNum": "30000000002",
             "availableBalance": 15000,
             "currentBalance": 0,
             "noOfRelations": 1,
             "primary": 1,
-            "jointAcct": 0
-        },
-        {
-            "acctNum": "10000000541",
-            "availableBalance": -5685,
-            "currentBalance": 0,
-            "noOfRelations": 1,
-            "primary": 1,
-            "jointAcct": 0
-        },
-        {
-            "acctNum": "10000000551",
-            "availableBalance": -3792.4,
-            "currentBalance": 0,
-            "noOfRelations": 1,
-            "primary": 1,
-            "jointAcct": 0
-        },
-        {
-            "acctNum": "10000000538",
-            "availableBalance": -5488,
-            "currentBalance": 0,
-            "noOfRelations": 1,
-            "primary": 1,
-            "jointAcct": 0
-        },
-        {
-            "acctNum": "10000000001",
-            "availableBalance": 86283,
             "jointAcct": 0
         },
         {
