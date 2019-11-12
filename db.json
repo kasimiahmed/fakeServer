@@ -16,8 +16,5 @@
          "acctNum":"10000000074",
          "availableBalance":572
       }
-   ],
-   "returnCode":0,
-   "success":1,
-   "returnMessage":""
+   ]
 }
