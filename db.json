@@ -1,39 +1,23 @@
 {
-    "result": [
-        {
-            "acctNum": "10000000512",
-            "availableBalance": 600000,
-            "currentBalance": 0,
-            "noOfRelations": 1,
-            "primary": 1,
-            "jointAcct": 0
-        },
-        {
-            "acctNum": "10000000477",
-            "availableBalance": 81891.7,
-            "currentBalance": 0,
-            "noOfRelations": 1,
-            "primary": 1,
-            "jointAcct": 0
-        },
-        {
-            "acctNum": "30000000002",
-            "availableBalance": 15000,
-            "currentBalance": 0,
-            "noOfRelations": 1,
-            "primary": 1,
-            "jointAcct": 0
-        },
-        {
-            "acctNum": "10000000074",
-            "availableBalance": 572,
-            "currentBalance": 0,
-            "noOfRelations": 76,
-            "primary": 0,
-            "jointAcct": 0
-        }
-    ],
-    "returnCode": 0,
-    "success": 1,
-    "returnMessage": ""
+   "result":[
+      {
+         "acctNum":"10000000512",
+         "availableBalance":600000
+      },
+      {
+         "acctNum":"10000000477",
+         "availableBalance":81891.7
+      },
+      {
+         "acctNum":"30000000002",
+         "availableBalance":15000
+      },
+      {
+         "acctNum":"10000000074",
+         "availableBalance":572
+      }
+   ],
+   "returnCode":0,
+   "success":1,
+   "returnMessage":""
 }
